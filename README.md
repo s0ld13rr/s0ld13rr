@@ -42,7 +42,7 @@ I regularly share technical write-ups, research notes, and case studies on:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s0ld13rr\&show_icons=true\&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0ld13rr&theme=solarized_dark)
 
 ---
 
