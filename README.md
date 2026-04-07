@@ -1,4 +1,4 @@
-# Hi, I’m Zhangir (aka s0ld13r)
+# Zhangir Ospanov
 
 <p align="center"><b>Offensive Security Researcher</b></p>
 <p align="center">Specializing in Red Team operations, Threat Hunting, and Threat Intelligence</p>
