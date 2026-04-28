@@ -19,14 +19,6 @@ I am an independent offensive security researcher with experience in Red Team op
 
 ---
 
-## Areas of Expertise
-
-* Red Team operations & adversary simulation
-* Threat Hunting & Threat Intelligence
-* Vulnerability research & malware analysis
-
----
-
 ## Publications & Content
 
 I regularly share technical write-ups, research notes, and case studies on:
